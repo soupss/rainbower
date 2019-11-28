@@ -10,4 +10,3 @@ Run module
 
     ~/Documents/rainbower$ python3 rainbower
     
-   
